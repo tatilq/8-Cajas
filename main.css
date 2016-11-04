@@ -1,0 +1,33 @@
+.Caja
+{
+	border: 1px solid black;
+	height: 100px;
+	width:  100px;
+	background-color: #77737A;
+	margin-top:5px; 
+}
+.Contenedor
+{
+	border: 1px solid black;
+	padding: 6px  4px 10px 10px;
+	display: inline-block;
+	margin-top: 6px;
+	margin-bottom: 10px ;  
+	background-color: #77737A;                    : 
+	
+}
+.Contenedor .Caja
+{
+	display: inline-block;
+	margin-right: 8px;
+	
+}
+.CajaInli
+{
+	border: 1px solid black;
+	height: 100px;
+	width:  100px;
+	background-color: #77737A;
+	display: inline-block;
+	margin-right: 10px;
+}
